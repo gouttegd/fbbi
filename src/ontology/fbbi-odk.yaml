@@ -12,3 +12,9 @@ title: Biological imaging methods ontology
 uribase: http://purl.obolibrary.org/obo
 workflows:
   - qc
+use_mappings: true
+sssom_mappingset_group:
+  release_mappings: true
+  products:
+    - id: main
+      maintenance: manual
