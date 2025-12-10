@@ -1,2 +1,652 @@
 ?cls	?def	?xrefs
-<http://purl.obolibrary.org/obo/FBBI_00000000>		
+<http://purl.obolibrary.org/obo/FBbi_00000561>		
+<http://purl.obolibrary.org/obo/FBbi_00000440>		
+<http://purl.obolibrary.org/obo/FBbi_00000464>		
+<http://purl.obolibrary.org/obo/FBbi_00000004>		
+<http://purl.obolibrary.org/obo/FBbi_00000340>	"structured illumination used at sufficiently high power to cause significant ground-state depletion of the imaged fluorophore, thus allowing for non-linear resolution enhancement"	
+<http://purl.obolibrary.org/obo/FBbi_00000234>		
+<http://purl.obolibrary.org/obo/FBbi_00000246>		
+<http://purl.obolibrary.org/obo/FBbi_00000113>		
+<http://purl.obolibrary.org/obo/FBbi_00000125>		
+<http://purl.obolibrary.org/obo/FBbi_00000573>		
+<http://purl.obolibrary.org/obo/FBbi_00000452>		
+<http://purl.obolibrary.org/obo/FBbi_00000101>		
+<http://purl.obolibrary.org/obo/FBbi_00000331>		
+<http://purl.obolibrary.org/obo/FBbi_00000210>		
+<http://purl.obolibrary.org/obo/FBbi_00000488>		
+<http://purl.obolibrary.org/obo/FBbi_00000597>		
+<http://purl.obolibrary.org/obo/FBbi_00000476>		
+<http://purl.obolibrary.org/obo/FBbi_00000343>		
+<http://purl.obolibrary.org/obo/FBbi_00000222>		
+<http://purl.obolibrary.org/obo/FBbi_00001001>	"Radiography using X-rays"	
+<http://purl.obolibrary.org/obo/FBbi_00000259>	"the scanning probe is maintained at a fixed distance above the surface e of the specimen by van der Waals forces"	
+<http://purl.obolibrary.org/obo/FBbi_00000292>	"illumination restricted to angles that exceed the acceptance angle of the image-forming lens"	
+<http://purl.obolibrary.org/obo/FBbi_00000379>		
+<http://purl.obolibrary.org/obo/FBbi_00000028>		
+<http://purl.obolibrary.org/obo/FBbi_00000258>		
+<http://purl.obolibrary.org/obo/FBbi_00000137>		
+<http://purl.obolibrary.org/obo/FBbi_00000149>		
+<http://purl.obolibrary.org/obo/FBbi_00000016>		
+<http://purl.obolibrary.org/obo/FBbi_00000330>		
+<http://purl.obolibrary.org/obo/FBbi_00000572>		
+<http://purl.obolibrary.org/obo/FBbi_00000451>		
+<http://purl.obolibrary.org/obo/FBbi_00000560>		
+<http://purl.obolibrary.org/obo/FBbi_00000015>		
+<http://purl.obolibrary.org/obo/FBbi_00000245>		
+<http://purl.obolibrary.org/obo/FBbi_00000596>		
+<http://purl.obolibrary.org/obo/FBbi_00000124>		
+<http://purl.obolibrary.org/obo/FBbi_00000475>		
+<http://purl.obolibrary.org/obo/FBbi_00000463>		
+<http://purl.obolibrary.org/obo/FBbi_00000378>		
+<http://purl.obolibrary.org/obo/FBbi_00000136>		
+<http://purl.obolibrary.org/obo/FBbi_00000003>		
+<http://purl.obolibrary.org/obo/FBbi_00000499>		
+<http://purl.obolibrary.org/obo/FBbi_00000112>		
+<http://purl.obolibrary.org/obo/FBbi_00000342>		
+<http://purl.obolibrary.org/obo/FBbi_00000221>		
+<http://purl.obolibrary.org/obo/FBbi_00000233>		
+<http://purl.obolibrary.org/obo/FBbi_00000100>		
+<http://purl.obolibrary.org/obo/FBbi_00000487>		
+<http://purl.obolibrary.org/obo/FBbi_00001007>		
+<http://purl.obolibrary.org/obo/FBbi_00000370>	"coherent Raman anti-Stokes microscopy"	
+<http://purl.obolibrary.org/obo/UBERON_0001062>	"Biological entity that is either an individual member of a biological species or constitutes the structural organization of an individual member of a biological species."	"MA:0000001 TAO:0100000 AAO:0010841 HAO:0000000 ZFA:0100000 FMA:62955 WBbt:0000100 TGMA:0001822 BFO:0000004 BILA:0000000 AEO:0000000 NCIT:C12219 XAO:0000000 EHDAA2:0002229 CARO:0000000 BIRNLEX:6"
+<http://purl.obolibrary.org/obo/BFO_0000015>	"p is a process = Def. p is an occurrent that has temporal proper parts and for some time t, p s-depends_on some material entity at t. (axiom label in BFO2 Reference: [083-003])"@en	
+<http://purl.obolibrary.org/obo/FBbi_00000270>	"The physical property of the specimen that leads to the modifications of the illumination that are recorded in the image."	
+<http://purl.obolibrary.org/obo/FBbi_00000148>		
+<http://purl.obolibrary.org/obo/FBbi_00000039>		
+<http://purl.obolibrary.org/obo/FBbi_00000027>		
+<http://purl.obolibrary.org/obo/FBbi_00000212>		
+<http://purl.obolibrary.org/obo/FBbi_00000563>		
+<http://purl.obolibrary.org/obo/FBbi_00000442>		
+<http://purl.obolibrary.org/obo/FBbi_00000278>	"illumination restricted to a small portion of the field of view of the imaging lens; often one or more diffraction limited spots"	
+<http://purl.obolibrary.org/obo/FBbi_00000103>		
+<http://purl.obolibrary.org/obo/FBbi_00000333>		
+<http://purl.obolibrary.org/obo/FBbi_00000430>		
+<http://purl.obolibrary.org/obo/FBbi_00000345>		
+<http://purl.obolibrary.org/obo/FBbi_00000224>		
+<http://purl.obolibrary.org/obo/FBbi_00000551>		
+<http://purl.obolibrary.org/obo/FBbi_00000587>		
+<http://purl.obolibrary.org/obo/FBbi_00000466>		
+<http://purl.obolibrary.org/obo/FBbi_00000575>		
+<http://purl.obolibrary.org/obo/FBbi_00000200>		
+<http://purl.obolibrary.org/obo/FBbi_00000139>		
+<http://purl.obolibrary.org/obo/FBbi_00000478>		
+<http://purl.obolibrary.org/obo/FBbi_00000018>		
+<http://purl.obolibrary.org/obo/FBbi_00000599>		
+<http://purl.obolibrary.org/obo/FBbi_00000357>		
+<http://purl.obolibrary.org/obo/FBbi_00000006>		
+<http://purl.obolibrary.org/obo/FBbi_00000236>		
+<http://purl.obolibrary.org/obo/FBbi_00000115>		
+<http://purl.obolibrary.org/obo/FBbi_00000127>		
+<http://purl.obolibrary.org/obo/FBbi_00000248>		
+<http://purl.obolibrary.org/obo/BFO_0000023>	"A realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural, social or institutional contexts."@en	
+<http://purl.obolibrary.org/obo/FBbi_00000398>	"visualization by depositing a label on the surface of a specimen uniformly (plating), or from a particular direction so that surface topography becomes visible (shadowing)"	
+<http://purl.obolibrary.org/obo/FBbi_00000550>		
+<http://purl.obolibrary.org/obo/FBbi_00000114>		
+<http://purl.obolibrary.org/obo/FBbi_00000223>		
+<http://purl.obolibrary.org/obo/FBbi_00000574>		
+<http://purl.obolibrary.org/obo/FBbi_00000562>		
+<http://purl.obolibrary.org/obo/FBbi_00000441>		
+<http://purl.obolibrary.org/obo/FBbi_00000356>		
+<http://purl.obolibrary.org/obo/FBbi_00000235>		
+<http://purl.obolibrary.org/obo/FBbi_00000102>		
+<http://purl.obolibrary.org/obo/FBbi_00000477>		
+<http://purl.obolibrary.org/obo/FBbi_00000320>		
+<http://purl.obolibrary.org/obo/FBbi_00000598>		
+<http://purl.obolibrary.org/obo/FBbi_00000332>		
+<http://purl.obolibrary.org/obo/FBbi_00000211>		
+<http://purl.obolibrary.org/obo/FBbi_00000586>		
+<http://purl.obolibrary.org/obo/FBbi_00000465>		
+<http://purl.obolibrary.org/obo/FBbi_00000585>	"A method of reconstructing 3D structure by combining serial sectioning with scanning EM."	
+<http://purl.obolibrary.org/obo/BFO_0000019>		
+<http://purl.obolibrary.org/obo/FBbi_00000029>		
+<http://purl.obolibrary.org/obo/FBbi_00000489>		
+<http://purl.obolibrary.org/obo/FBbi_00000247>		
+<http://purl.obolibrary.org/obo/FBbi_00000126>		
+<http://purl.obolibrary.org/obo/FBbi_00000368>		
+<http://purl.obolibrary.org/obo/FBbi_00000017>		
+<http://purl.obolibrary.org/obo/FBbi_00000138>		
+<http://purl.obolibrary.org/obo/FBbi_00000005>		
+<http://purl.obolibrary.org/obo/FBbi_00000351>		
+<http://purl.obolibrary.org/obo/FBbi_00000000>		
+<http://purl.obolibrary.org/obo/FBbi_00000230>		
+<http://purl.obolibrary.org/obo/FBbi_00000460>		
+<http://purl.obolibrary.org/obo/FBbi_00000121>		
+<http://purl.obolibrary.org/obo/FBbi_00000363>		
+<http://purl.obolibrary.org/obo/FBbi_00000242>		
+<http://purl.obolibrary.org/obo/BFO_0000017>	"A specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities. The exhibition or actualization of a realizable entity is a particular manifestation, functioning or process that occurs under certain circumstances."@en	
+<http://purl.obolibrary.org/obo/FBbi_00000484>		
+<http://purl.obolibrary.org/obo/FBbi_00000593>		
+<http://purl.obolibrary.org/obo/FBbi_00000472>		
+<http://purl.obolibrary.org/obo/FBbi_00000387>		
+<http://purl.obolibrary.org/obo/FBbi_00000048>		
+<http://purl.obolibrary.org/obo/FBbi_00000157>		
+<http://purl.obolibrary.org/obo/FBbi_00000169>		
+<http://purl.obolibrary.org/obo/FBbi_00000036>		
+<http://purl.obolibrary.org/obo/FBbi_00000496>		
+<http://purl.obolibrary.org/obo/FBbi_00000024>		
+<http://purl.obolibrary.org/obo/FBbi_00000254>		
+<http://purl.obolibrary.org/obo/FBbi_00000133>		
+<http://purl.obolibrary.org/obo/FBbi_00000375>		
+<http://purl.obolibrary.org/obo/FBbi_00000145>		
+<http://purl.obolibrary.org/obo/FBbi_00000012>		
+<http://purl.obolibrary.org/obo/FBbi_00000453>	"fluorophore with ex/em 589/615"	
+<http://purl.obolibrary.org/obo/FBbi_00001003>	"Tomography using X-ray illumination."	
+<http://purl.obolibrary.org/obo/FBbi_00000354>	"a computational method that is linear in the mathematical sense, meaning that image intensity is conserved and the data remain suitable for all quantitative analyses"	
+<http://purl.obolibrary.org/obo/FBbi_00000120>		
+<http://purl.obolibrary.org/obo/FBbi_00000471>		
+<http://purl.obolibrary.org/obo/FBbi_00000362>		
+<http://purl.obolibrary.org/obo/FBbi_00000011>		
+<http://purl.obolibrary.org/obo/FBbi_00000592>		
+<http://purl.obolibrary.org/obo/FBbi_00000374>		
+<http://purl.obolibrary.org/obo/FBbi_00000253>		
+<http://purl.obolibrary.org/obo/FBbi_00000132>		
+<http://purl.obolibrary.org/obo/FBbi_00000399>	"visualization by exclusion of a stain in which the specimen is immersed; compare with \"positive staining."	
+<http://purl.obolibrary.org/obo/FBbi_00000495>		
+<http://purl.obolibrary.org/obo/FBbi_00000483>		
+<http://purl.obolibrary.org/obo/FBbi_00000350>		
+<http://purl.obolibrary.org/obo/FBbi_00000168>		
+<http://purl.obolibrary.org/obo/FBbi_00000059>		
+<http://purl.obolibrary.org/obo/FBbi_00000386>		
+<http://purl.obolibrary.org/obo/FBbi_00000047>		
+<http://purl.obolibrary.org/obo/FBbi_00000035>		
+<http://purl.obolibrary.org/obo/FBbi_00000144>		
+<http://purl.obolibrary.org/obo/FBbi_00000156>		
+<http://purl.obolibrary.org/obo/FBbi_00000023>		
+<http://purl.obolibrary.org/obo/FBbi_00000372>	"image created using the electrons generated by ionization of a sample due to inelastic scattering of the primary beam of radiation"	
+<http://purl.obolibrary.org/obo/FBbi_00000088>	"visualization of the connected regions of a cell by filling with a label"	
+<http://purl.obolibrary.org/obo/FBbi_00000287>	"illumination by multiple points of light simultaneously"	
+<http://purl.obolibrary.org/obo/FBbi_00000371>	"optical coherence tomography; an interferometric method of imaging using back-scattered photons (elastic scattering)"	
+<http://purl.obolibrary.org/obo/FBbi_00000341>		
+<http://purl.obolibrary.org/obo/FBbi_00000220>		
+<http://purl.obolibrary.org/obo/FBbi_00000462>		
+<http://purl.obolibrary.org/obo/FBbi_00000450>		
+<http://purl.obolibrary.org/obo/FBbi_00000571>		
+<http://purl.obolibrary.org/obo/FBbi_00000135>		
+<http://purl.obolibrary.org/obo/FBbi_00000486>		
+<http://purl.obolibrary.org/obo/FBbi_00000377>		
+<http://purl.obolibrary.org/obo/FBbi_00000026>		
+<http://purl.obolibrary.org/obo/FBbi_00000256>		
+<http://purl.obolibrary.org/obo/FBbi_00000147>		
+<http://purl.obolibrary.org/obo/FBbi_00000014>		
+<http://purl.obolibrary.org/obo/FBbi_00000595>		
+<http://purl.obolibrary.org/obo/FBbi_00000474>		
+<http://purl.obolibrary.org/obo/FBbi_00000002>		
+<http://purl.obolibrary.org/obo/FBbi_00000232>		
+<http://purl.obolibrary.org/obo/FBbi_00000389>		
+<http://purl.obolibrary.org/obo/FBbi_00000498>		
+<http://purl.obolibrary.org/obo/FBbi_00000111>		
+<http://purl.obolibrary.org/obo/FBbi_00000123>		
+<http://purl.obolibrary.org/obo/FBbi_00001006>		
+<http://purl.obolibrary.org/obo/FBbi_00000159>		
+<http://purl.obolibrary.org/obo/FBbi_00000038>		
+<http://purl.obolibrary.org/obo/FBbi_00000570>		
+<http://purl.obolibrary.org/obo/FBbi_00000110>		
+<http://purl.obolibrary.org/obo/FBbi_00000352>		
+<http://purl.obolibrary.org/obo/FBbi_00000231>		
+<http://purl.obolibrary.org/obo/FBbi_00000594>		
+<http://purl.obolibrary.org/obo/FBbi_00000473>		
+<http://purl.obolibrary.org/obo/FBbi_00000461>		
+<http://purl.obolibrary.org/obo/FBbi_00000146>		
+<http://purl.obolibrary.org/obo/FBbi_00000497>		
+<http://purl.obolibrary.org/obo/FBbi_00000485>		
+<http://purl.obolibrary.org/obo/FBbi_00000279>		
+<http://purl.obolibrary.org/obo/FBbi_00000158>		
+<http://purl.obolibrary.org/obo/FBbi_00000013>		
+<http://purl.obolibrary.org/obo/FBbi_00000243>		
+<http://purl.obolibrary.org/obo/FBbi_00000122>		
+<http://purl.obolibrary.org/obo/FBbi_00000255>		
+<http://purl.obolibrary.org/obo/FBbi_00000134>		
+<http://purl.obolibrary.org/obo/FBbi_00000001>		
+<http://purl.obolibrary.org/obo/FBbi_00000376>		
+<http://purl.obolibrary.org/obo/FBbi_00000388>		
+<http://purl.obolibrary.org/obo/FBbi_00000267>	"A form of graphical illustration that changes with time to give a sense of motion or represent dynamic changes in the portrayal."	
+<http://purl.obolibrary.org/obo/FBbi_00000049>		
+<http://purl.obolibrary.org/obo/FBbi_00000044>		
+<http://purl.obolibrary.org/obo/FBbi_00000274>		
+<http://purl.obolibrary.org/obo/FBbi_00000153>		
+<http://purl.obolibrary.org/obo/FBbi_00000492>		
+<http://purl.obolibrary.org/obo/FBbi_00000165>		
+<http://purl.obolibrary.org/obo/FBbi_00000032>		
+<http://purl.obolibrary.org/obo/FBbi_00000020>		
+<http://purl.obolibrary.org/obo/FBbi_00000250>		
+<http://purl.obolibrary.org/obo/FBbi_00000395>		
+<http://purl.obolibrary.org/obo/FBbi_00000141>		
+<http://purl.obolibrary.org/obo/FBbi_00000298>		
+<http://purl.obolibrary.org/obo/FBbi_00000177>		
+<http://purl.obolibrary.org/obo/FBbi_00000068>		
+<http://purl.obolibrary.org/obo/FBbi_00000189>		
+<http://purl.obolibrary.org/obo/FBbi_00000056>		
+<http://purl.obolibrary.org/obo/FBbi_00000480>		
+<http://purl.obolibrary.org/obo/FBbi_00001012>		
+<http://purl.obolibrary.org/obo/FBbi_00000244>	"imaging with rejection of the unscattered illumination (removal of the zero order component of the diffracted wave)"	
+<http://purl.obolibrary.org/obo/FBbi_00000164>		
+<http://purl.obolibrary.org/obo/FBbi_00000394>		
+<http://purl.obolibrary.org/obo/FBbi_00000055>		
+<http://purl.obolibrary.org/obo/FBbi_00000285>		
+<http://purl.obolibrary.org/obo/FBbi_00000382>		
+<http://purl.obolibrary.org/obo/FBbi_00000297>		
+<http://purl.obolibrary.org/obo/FBbi_00000176>		
+<http://purl.obolibrary.org/obo/FBbi_00000043>		
+<http://purl.obolibrary.org/obo/FBbi_00000031>		
+<http://purl.obolibrary.org/obo/FBbi_00000261>		
+<http://purl.obolibrary.org/obo/FBbi_00000140>		
+<http://purl.obolibrary.org/obo/FBbi_00000273>		
+<http://purl.obolibrary.org/obo/FBbi_00000152>		
+<http://purl.obolibrary.org/obo/FBbi_00000079>		
+<http://purl.obolibrary.org/obo/FBbi_00000188>		
+<http://purl.obolibrary.org/obo/FBbi_00000067>		
+<http://purl.obolibrary.org/obo/FBbi_00000355>	"computational method that are mathematically non-linear; image intensity is not conserved, and the data are in general not suitable for quantitative analyses of pixel values"	
+<http://purl.obolibrary.org/obo/FBbi_00000491>		
+<http://purl.obolibrary.org/obo/IAO_0000078>	"The curation status of the term. The allowed values come from an enumerated list of predefined terms. See the specification of these instances for more detailed definitions of each enumerated value."@en	
+<http://purl.obolibrary.org/obo/FBbi_00000609>		
+<http://purl.obolibrary.org/obo/FBbi_00000089>	"Fully hydrated tissue rapidly frozen to produce vitrified water, and maintained continuously below the glass transition temperature of water (approximately -137 deg C"	
+<http://purl.obolibrary.org/obo/FBbi_00000583>	"specimen from which water has been removed by evaporation under vacuum at a temperature below freezing."	
+<http://purl.obolibrary.org/obo/FBbi_00000022>		
+<http://purl.obolibrary.org/obo/FBbi_00000252>		
+<http://purl.obolibrary.org/obo/FBbi_00000131>		
+<http://purl.obolibrary.org/obo/FBbi_00000482>		
+<http://purl.obolibrary.org/obo/FBbi_00000143>		
+<http://purl.obolibrary.org/obo/FBbi_00000010>		
+<http://purl.obolibrary.org/obo/FBbi_00000591>		
+<http://purl.obolibrary.org/obo/FBbi_00000470>		
+<http://purl.obolibrary.org/obo/FBbi_00000385>		
+<http://purl.obolibrary.org/obo/FBbi_00000361>		
+<http://purl.obolibrary.org/obo/FBbi_00000494>		
+<http://purl.obolibrary.org/obo/FBbi_00000179>		
+<http://purl.obolibrary.org/obo/FBbi_00000058>		
+<http://purl.obolibrary.org/obo/FBbi_00000046>		
+<http://purl.obolibrary.org/obo/FBbi_00000276>		
+<http://purl.obolibrary.org/obo/FBbi_00000155>		
+<http://purl.obolibrary.org/obo/FBbi_00000167>		
+<http://purl.obolibrary.org/obo/FBbi_00000034>		
+<http://purl.obolibrary.org/obo/FBbi_00000391>	"illumination in the shape of a thin line that is swept over the field of view"	
+<http://purl.obolibrary.org/obo/FBbi_00001002>		"http://en.wikipedia.org/wiki/X-ray_computed_tomography MeSH:D014057"
+<http://purl.obolibrary.org/obo/FBbi_00000580>	"electrons generated by inelastic scattering of other radiation, the primary radiation."	
+<http://purl.obolibrary.org/obo/FBbi_00000142>		
+<http://purl.obolibrary.org/obo/FBbi_00000493>		
+<http://purl.obolibrary.org/obo/FBbi_00000033>		
+<http://purl.obolibrary.org/obo/FBbi_00000275>		
+<http://purl.obolibrary.org/obo/FBbi_00000365>	"Fluorescence loss in photobleaching; a method of determining whether two populations of fluorophore are in diffusive communication with one another by observing the decrease in brightness of one population when the other population is subjected to continuous photobleaching."	
+<http://purl.obolibrary.org/obo/FBbi_00000154>		
+<http://purl.obolibrary.org/obo/FBbi_00000021>		
+<http://purl.obolibrary.org/obo/FBbi_00000481>		
+<http://purl.obolibrary.org/obo/FBbi_00000360>		
+<http://purl.obolibrary.org/obo/FBbi_00000384>		
+<http://purl.obolibrary.org/obo/FBbi_00000251>		
+<http://purl.obolibrary.org/obo/FBbi_00000130>		
+<http://purl.obolibrary.org/obo/FBbi_00000069>		
+<http://purl.obolibrary.org/obo/FBbi_00000057>		
+<http://purl.obolibrary.org/obo/FBbi_00000166>		
+<http://purl.obolibrary.org/obo/FBbi_00000178>		
+<http://purl.obolibrary.org/obo/FBbi_00000045>		
+<http://purl.obolibrary.org/obo/FBbi_00000299>		
+<http://purl.obolibrary.org/obo/GO_0016301>	"Catalysis of the transfer of a phosphate group, usually from ATP, to a substrate molecule."	"Reactome:R-HSA-6788855 Reactome:R-HSA-6788867"
+<http://purl.obolibrary.org/obo/FBbi_00000579>	"A fragment of a cell, subcellular organelle, or macromolecular complex."	
+<http://purl.obolibrary.org/obo/FBbi_00000197>		
+<http://purl.obolibrary.org/obo/FBbi_00000076>		
+<http://purl.obolibrary.org/obo/FBbi_00000064>		
+<http://purl.obolibrary.org/obo/FBbi_00000294>		
+<http://purl.obolibrary.org/obo/FBbi_00000173>		
+<http://purl.obolibrary.org/obo/FBbi_00000185>		
+<http://purl.obolibrary.org/obo/FBbi_00000052>		
+<http://purl.obolibrary.org/obo/FBbi_00000040>		
+<http://purl.obolibrary.org/obo/FBbi_00000282>		
+<http://purl.obolibrary.org/obo/FBbi_00000161>		
+<http://purl.obolibrary.org/obo/FBbi_00000618>		
+<http://purl.obolibrary.org/obo/FBbi_00000509>		
+<http://purl.obolibrary.org/obo/FBbi_00000606>		
+<http://purl.obolibrary.org/obo/FBbi_00000099>		
+<http://purl.obolibrary.org/obo/FBbi_00000087>		
+<http://purl.obolibrary.org/obo/FBbi_00000184>		
+<http://purl.obolibrary.org/obo/FBbi_00000075>		
+<http://purl.obolibrary.org/obo/FBbi_00000196>		
+<http://purl.obolibrary.org/obo/FBbi_00000063>		
+<http://purl.obolibrary.org/obo/FBbi_00000051>		
+<http://purl.obolibrary.org/obo/FBbi_00000281>		
+<http://purl.obolibrary.org/obo/FBbi_00000160>		
+<http://purl.obolibrary.org/obo/FBbi_00000390>		
+<http://purl.obolibrary.org/obo/FBbi_00000172>		
+<http://purl.obolibrary.org/obo/FBbi_00000508>		
+<http://purl.obolibrary.org/obo/FBbi_00000326>	"a birefringent optical element typically used to split polarized illumination into two sets of parallel but displaced rays"	
+<http://purl.obolibrary.org/obo/FBbi_00000605>		
+<http://purl.obolibrary.org/obo/FBbi_00000617>		
+<http://purl.obolibrary.org/obo/FBbi_00000364>	"illumination in the form of a thin sheet of light directed perpendicular to the optic axis"	
+<http://purl.obolibrary.org/obo/FBbi_00000066>		
+<http://purl.obolibrary.org/obo/FBbi_00000296>		
+<http://purl.obolibrary.org/obo/FBbi_00000175>		
+<http://purl.obolibrary.org/obo/FBbi_00000187>		
+<http://purl.obolibrary.org/obo/FBbi_00000054>		
+<http://purl.obolibrary.org/obo/FBbi_00000151>		
+<http://purl.obolibrary.org/obo/FBbi_00000042>		
+<http://purl.obolibrary.org/obo/FBbi_00000272>		
+<http://purl.obolibrary.org/obo/FBbi_00000163>		
+<http://purl.obolibrary.org/obo/FBbi_00000030>		
+<http://purl.obolibrary.org/obo/FBbi_00000266>	"methods and devices used for creating images by some form of artwork, as distinct from capturing images by means of some recording device"	
+<http://purl.obolibrary.org/obo/FBbi_00000199>		
+<http://purl.obolibrary.org/obo/FBbi_00000078>		
+<http://purl.obolibrary.org/obo/FBbi_00000041>	"The staining method involves application of hemalum, which is a complex formed from aluminium ions and oxidized haematoxylin. This colors nuclei of cells (and a few other objects, such as keratohyalin granules) blue. The staining of nuclei by hemalum does not require the presence of DNA and is probably due to binding of the dye-metal complex to arginine-rich basic nucleoproteins such as histones. The mechanism is different from that of nuclear staining by basic (cationic) dyes such as thionine or toluidine blue. Staining by basic dyes is prevented by chemical or enzymatic extraction of nucleic acids. Such extractions do not prevent staining of nuclei by hemalum."	
+<http://purl.obolibrary.org/obo/FBbi_00000260>		"http://en.wikipedia.org/wiki/X-ray_microscope"
+<http://purl.obolibrary.org/obo/FBbi_00000381>		
+<http://purl.obolibrary.org/obo/FBbi_00000490>		
+<http://purl.obolibrary.org/obo/FBbi_00000608>		
+<http://purl.obolibrary.org/obo/BFO_0000020>	"b is a specifically dependent continuant = Def. b is a continuant & there is some independent continuant c which is not a spatial region and which is such that b s-depends_on c at every time t during the course of b’s existence. (axiom label in BFO2 Reference: [050-003])"@en	
+<http://purl.obolibrary.org/obo/FBbi_00000077>		
+<http://purl.obolibrary.org/obo/FBbi_00000186>		
+<http://purl.obolibrary.org/obo/FBbi_00000198>		
+<http://purl.obolibrary.org/obo/FBbi_00000065>		
+<http://purl.obolibrary.org/obo/FBbi_00000053>		
+<http://purl.obolibrary.org/obo/FBbi_00000283>		
+<http://purl.obolibrary.org/obo/FBbi_00000162>		
+<http://purl.obolibrary.org/obo/FBbi_00000295>		
+<http://purl.obolibrary.org/obo/FBbi_00000174>		
+<http://purl.obolibrary.org/obo/FBbi_00000150>		
+<http://purl.obolibrary.org/obo/FBbi_00000271>		
+<http://purl.obolibrary.org/obo/FBbi_00000380>		
+<http://purl.obolibrary.org/obo/FBbi_00000607>		
+<http://purl.obolibrary.org/obo/FBbi_00000619>		
+<http://purl.obolibrary.org/obo/FBbi_00000096>		
+<http://purl.obolibrary.org/obo/FBbi_00000257>	"image is formed by scanning the surface of the specimen with a beam of electrons in a raster pattern"	
+<http://purl.obolibrary.org/obo/FBbi_00000454>	"fluorophore derivative of rhodamine with ex/em 547/572"	
+<http://purl.obolibrary.org/obo/FBbi_00000193>		
+<http://purl.obolibrary.org/obo/FBbi_00000084>		
+<http://purl.obolibrary.org/obo/FBbi_00000072>		
+<http://purl.obolibrary.org/obo/FBbi_00000060>		
+<http://purl.obolibrary.org/obo/FBbi_00000181>		
+<http://purl.obolibrary.org/obo/FBbi_00000289>	"Multiple points of illumination generated by a fixed array of sources."	
+<http://purl.obolibrary.org/obo/FBbi_00000602>		
+<http://purl.obolibrary.org/obo/FBbi_00000505>		
+<http://purl.obolibrary.org/obo/FBbi_00000614>		
+<http://purl.obolibrary.org/obo/FBbi_00000408>		
+<http://purl.obolibrary.org/obo/FBbi_00000529>		
+<http://purl.obolibrary.org/obo/FBbi_00000517>		
+<http://purl.obolibrary.org/obo/FBbi_00000293>	"illumination at angles less than the acceptance angle of the image-forming lens is attenuated by a filter to give a colored background of unscattered light; higher angle illumination may be filtered to give a contrasting color"	
+<http://purl.obolibrary.org/obo/FBbi_00001000>	"An imaging technique that uses high energy electromagnetic radiation, typically X-rays, as a source of illumination."	
+<http://purl.obolibrary.org/obo/FBbi_00000581>	"specimen from which water has been removed by a process that avoids liquid-gas and solid-gas phase transitions."	
+<http://purl.obolibrary.org/obo/FBbi_00000095>		
+<http://purl.obolibrary.org/obo/FBbi_00000083>		
+<http://purl.obolibrary.org/obo/FBbi_00000180>		
+<http://purl.obolibrary.org/obo/FBbi_00000071>		
+<http://purl.obolibrary.org/obo/FBbi_00000192>		
+<http://purl.obolibrary.org/obo/BFO_0000003>	"An entity that has temporal parts and that happens, unfolds or develops through time."@en	
+<http://purl.obolibrary.org/obo/FBbi_00001004>	"An imaging technique that creates virtual sections through the use of any kind of penetrating wave."	
+<http://purl.obolibrary.org/obo/FBbi_00000601>		
+<http://purl.obolibrary.org/obo/FBbi_00000613>		
+<http://purl.obolibrary.org/obo/FBbi_00000516>		
+<http://purl.obolibrary.org/obo/FBbi_00000504>		
+<http://purl.obolibrary.org/obo/FBbi_00000373>	"imaged formed using electrons undergoing elastic scattering at very high angles, with emission of characteristic X-rays"	
+<http://purl.obolibrary.org/obo/FBbi_00000419>		
+<http://purl.obolibrary.org/obo/FBbi_00000528>		
+<http://purl.obolibrary.org/obo/FBbi_00000407>		
+<http://purl.obolibrary.org/obo/FBbi_00000098>		
+<http://purl.obolibrary.org/obo/FBbi_00000086>		
+<http://purl.obolibrary.org/obo/FBbi_00000195>		
+<http://purl.obolibrary.org/obo/FBbi_00000074>		
+<http://purl.obolibrary.org/obo/FBbi_00000171>		
+<http://purl.obolibrary.org/obo/FBbi_00000240>	"methods for imaging objects large enough to be observed by the unaided eye"	
+<http://purl.obolibrary.org/obo/FBbi_00000062>		
+<http://purl.obolibrary.org/obo/FBbi_00000183>		
+<http://purl.obolibrary.org/obo/FBbi_00000050>		
+<http://purl.obolibrary.org/obo/FBbi_00000280>		
+<http://purl.obolibrary.org/obo/FBbi_00000519>		
+<http://purl.obolibrary.org/obo/FBbi_00000369>	"single (or selective) plane illumination."	
+<http://purl.obolibrary.org/obo/FBbi_00000367>	"Fluorescence (or Forster) resonance energy transfer; a method of estimating the distance between two fluorophores by measuring the extent of non-radiative energy transfer between the two. Experimentally, this involves selective excitation of one while observing emission from the other."	
+<http://purl.obolibrary.org/obo/FBbi_00000093>	"Tissue treated to make cell membranes permeable, typically for the purpose of allowing access by exogenous stains or substrates."	
+<http://purl.obolibrary.org/obo/FBbi_00000604>		
+<http://purl.obolibrary.org/obo/FBbi_00000507>		
+<http://purl.obolibrary.org/obo/FBbi_00000616>		
+<http://purl.obolibrary.org/obo/FBbi_00000097>		
+<http://purl.obolibrary.org/obo/FBbi_00000085>		
+<http://purl.obolibrary.org/obo/FBbi_00000129>	"tissue made permeable by the action of glycerol"	
+<http://purl.obolibrary.org/obo/FBbi_00000073>		
+<http://purl.obolibrary.org/obo/FBbi_00000182>		
+<http://purl.obolibrary.org/obo/FBbi_00000061>		
+<http://purl.obolibrary.org/obo/FBbi_00000194>		
+<http://purl.obolibrary.org/obo/FBbi_00000170>		
+<http://purl.obolibrary.org/obo/FBbi_00000409>		
+<http://purl.obolibrary.org/obo/FBbi_00000603>		
+<http://purl.obolibrary.org/obo/FBbi_00000615>		
+<http://purl.obolibrary.org/obo/FBbi_00000518>		
+<http://purl.obolibrary.org/obo/FBbi_00000506>		
+<http://purl.obolibrary.org/obo/FBbi_00000582>	"data as acquired, with no alterations that change the pixel values."	
+<http://purl.obolibrary.org/obo/FBbi_00000344>	"imaging by means of a physical probe that passes over the sample"	
+<http://purl.obolibrary.org/obo/FBbi_00000080>		
+<http://purl.obolibrary.org/obo/FBbi_00000353>	"Uses an objective with extra components to manipulate the wave front in the plane of the objective aperture."	
+<http://purl.obolibrary.org/obo/FBbi_00000262>	"Membrane permeabilization by the action of ionic or non-ionic detergents"	
+<http://purl.obolibrary.org/obo/FBbi_00000092>		
+<http://purl.obolibrary.org/obo/FBbi_00000501>		
+<http://purl.obolibrary.org/obo/FBbi_00000610>		
+<http://purl.obolibrary.org/obo/FBbi_00000622>		
+<http://purl.obolibrary.org/obo/FBbi_00000525>		
+<http://purl.obolibrary.org/obo/FBbi_00000404>		
+<http://purl.obolibrary.org/obo/FBbi_00000513>		
+<http://purl.obolibrary.org/obo/FBbi_00000319>		
+<http://purl.obolibrary.org/obo/FBbi_00000549>		
+<http://purl.obolibrary.org/obo/FBbi_00000428>		
+<http://purl.obolibrary.org/obo/FBbi_00000416>		
+<http://purl.obolibrary.org/obo/FBbi_00000537>		
+<http://purl.obolibrary.org/obo/FBbi_00000307>		
+<http://purl.obolibrary.org/obo/FBbi_00000091>		
+<http://purl.obolibrary.org/obo/FBbi_00000286>	"illumination by a single spot of light that is scanned across the field of view"	
+<http://purl.obolibrary.org/obo/FBbi_00000383>	"Illumination used for the purpose of inducing some observable change in the specimen during the course of an imaging session. This illumination may or may not be the same as the illumination used for imaging. Typically used in conjunction with live-cell imaging"	
+<http://purl.obolibrary.org/obo/FBbi_00000512>		
+<http://purl.obolibrary.org/obo/FBbi_00000621>		
+<http://purl.obolibrary.org/obo/FBbi_00000500>		
+<http://purl.obolibrary.org/obo/FBbi_00000536>		
+<http://purl.obolibrary.org/obo/FBbi_00000415>		
+<http://purl.obolibrary.org/obo/FBbi_00000524>		
+<http://purl.obolibrary.org/obo/FBbi_00000403>		
+<http://purl.obolibrary.org/obo/FBbi_00000209>		
+<http://purl.obolibrary.org/obo/FBbi_00000439>		
+<http://purl.obolibrary.org/obo/FBbi_00000548>		
+<http://purl.obolibrary.org/obo/FBbi_00000427>		
+<http://purl.obolibrary.org/obo/FBbi_00000306>		
+<http://purl.obolibrary.org/obo/FBbi_00000318>		
+<http://purl.obolibrary.org/obo/FBbi_00000263>	"permeabilization due to extraction of lipid from membranes by an organic solvent such as acetone or methanol."	
+<http://purl.obolibrary.org/obo/FBbi_00000393>	"Fixed array of sources focused to an array of spots that is swept over the specimen in raster fashion"	
+<http://purl.obolibrary.org/obo/FBbi_00000094>		
+<http://purl.obolibrary.org/obo/FBbi_00000082>		
+<http://purl.obolibrary.org/obo/FBbi_00000191>		
+<http://purl.obolibrary.org/obo/FBbi_00000070>		
+<http://purl.obolibrary.org/obo/FBbi_00000600>		
+<http://purl.obolibrary.org/obo/FBbi_00000612>		
+<http://purl.obolibrary.org/obo/FBbi_00000503>		
+<http://purl.obolibrary.org/obo/FBbi_00000527>		
+<http://purl.obolibrary.org/obo/FBbi_00000406>		
+<http://purl.obolibrary.org/obo/FBbi_00000515>		
+<http://purl.obolibrary.org/obo/FBbi_00000309>		
+<http://purl.obolibrary.org/obo/FBbi_00000284>	"illumination that varies with time; often achieved with pulsed lasers for the purpose of generating very-high peak illumination power"	
+<http://purl.obolibrary.org/obo/FBbi_00000539>		
+<http://purl.obolibrary.org/obo/FBbi_00000418>		
+<http://purl.obolibrary.org/obo/BFO_0000004>	"b is an independent continuant = Def. b is a continuant which is such that there is no c and no t such that b s-depends_on c at t. (axiom label in BFO2 Reference: [017-002])"@en	
+<http://purl.obolibrary.org/obo/FBbi_00000366>	"Fluorescence loss in photobleaching; a method of determining the rate and extent of exchange between a localized population of fluorophore and a non-localized diffusible pool, by observing the rate of recovery of brightness of the localized population after photobleaching."	
+<http://purl.obolibrary.org/obo/FBbi_00000190>		
+<http://purl.obolibrary.org/obo/FBbi_00000081>		
+<http://purl.obolibrary.org/obo/GO_0008150>	"A biological process is the execution of a genetically-encoded biological module or program. It consists of all the steps required to achieve the specific biological objective of the module. A biological process is accomplished by a particular set of molecular functions carried out by specific gene products (or macromolecular complexes), often in a highly regulated manner and in a particular temporal sequence."	"Wikipedia:Biological_process"
+<http://purl.obolibrary.org/obo/FBbi_00000025>	"Unfixed fully hydrated tissue, typically employed to monitor dynamic changes in the living state."	
+<http://purl.obolibrary.org/obo/FBbi_root_00000000>		
+<http://purl.obolibrary.org/obo/FBbi_00000611>		
+<http://purl.obolibrary.org/obo/FBbi_00000514>		
+<http://purl.obolibrary.org/obo/FBbi_00000623>		
+<http://purl.obolibrary.org/obo/FBbi_00000502>		
+<http://purl.obolibrary.org/obo/FBbi_00000417>		
+<http://purl.obolibrary.org/obo/FBbi_00000308>		
+<http://purl.obolibrary.org/obo/FBbi_00000538>		
+<http://purl.obolibrary.org/obo/FBbi_00000526>		
+<http://purl.obolibrary.org/obo/FBbi_00000405>		
+<http://purl.obolibrary.org/obo/FBbi_00000429>		
+<http://purl.obolibrary.org/obo/FBbi_00000321>	"methods for increasing the resolution beyond the classical Abbe diffraction limit"	
+<http://purl.obolibrary.org/obo/FBbi_00000521>		
+<http://purl.obolibrary.org/obo/FBbi_00000400>		
+<http://purl.obolibrary.org/obo/BFO_0000034>		
+<http://purl.obolibrary.org/obo/FBbi_00000424>		
+<http://purl.obolibrary.org/obo/FBbi_00000315>		
+<http://purl.obolibrary.org/obo/FBbi_00000545>		
+<http://purl.obolibrary.org/obo/FBbi_00000327>		
+<http://purl.obolibrary.org/obo/FBbi_00000206>		
+<http://purl.obolibrary.org/obo/FBbi_00000533>		
+<http://purl.obolibrary.org/obo/FBbi_00000412>		
+<http://purl.obolibrary.org/obo/FBbi_00000569>		
+<http://purl.obolibrary.org/obo/FBbi_00000448>		
+<http://purl.obolibrary.org/obo/FBbi_00000557>		
+<http://purl.obolibrary.org/obo/FBbi_00000590>	"The source of the variation in the imaged parameter across the field of view."	
+<http://purl.obolibrary.org/obo/FBbi_00000436>		
+<http://purl.obolibrary.org/obo/FBbi_00000303>		
+<http://purl.obolibrary.org/obo/FBbi_00000265>	"methods and devices used for capturing an image of a real object; distinct from images created by artwork"	
+<http://purl.obolibrary.org/obo/FBbi_00000109>		
+<http://purl.obolibrary.org/obo/FBbi_00000339>		
+<http://purl.obolibrary.org/obo/FBbi_00000218>		
+<http://purl.obolibrary.org/obo/FBbi_00000397>	"methods of visualization that differentiate regions of the specimen on the basis of their chemical properties"	
+<http://purl.obolibrary.org/obo/FBbi_00000532>		
+<http://purl.obolibrary.org/obo/FBbi_00000411>		
+<http://purl.obolibrary.org/obo/FBbi_00000520>		
+<http://purl.obolibrary.org/obo/FBbi_00000264>	"Saponin, a detergent-like molecule, preferentially forms holes in membranes that contain cholesterol."	
+<http://purl.obolibrary.org/obo/FBbi_00000205>		
+<http://purl.obolibrary.org/obo/FBbi_00000556>		
+<http://purl.obolibrary.org/obo/FBbi_00000435>		
+<http://purl.obolibrary.org/obo/FBbi_00000544>		
+<http://purl.obolibrary.org/obo/FBbi_00000423>		
+<http://purl.obolibrary.org/obo/FBbi_00000338>		
+<http://purl.obolibrary.org/obo/FBbi_00000217>		
+<http://purl.obolibrary.org/obo/FBbi_00000459>		
+<http://purl.obolibrary.org/obo/FBbi_00000302>		
+<http://purl.obolibrary.org/obo/FBbi_00000568>		
+<http://purl.obolibrary.org/obo/FBbi_00000447>		
+<http://purl.obolibrary.org/obo/FBbi_00000314>		
+<http://purl.obolibrary.org/obo/FBbi_00000037>	"Staining with an aqueous or alcoholic solution of eosin Y,colors eosinophilic structures in various shades of red, pink and orange. The eosinophilic structures are generally composed of intracellular or extracellular protein. The Lewy bodies and Mallory bodies are examples of eosinophilic structures. Most of the cytoplasm is eosinophilic. Red blood cells are stained intensely red."	
+<http://purl.obolibrary.org/obo/FBbi_00000229>		
+<http://purl.obolibrary.org/obo/FBbi_00000108>		
+<http://purl.obolibrary.org/obo/FBbi_00000349>	"Aperture-less NSOM."	
+<http://purl.obolibrary.org/obo/FBbi_00000620>		
+<http://purl.obolibrary.org/obo/FBbi_00000090>		
+<http://purl.obolibrary.org/obo/FBbi_00000523>		
+<http://purl.obolibrary.org/obo/FBbi_00000402>		
+<http://purl.obolibrary.org/obo/FBbi_00000305>		
+<http://purl.obolibrary.org/obo/FBbi_00000511>		
+<http://purl.obolibrary.org/obo/FBbi_00000547>		
+<http://purl.obolibrary.org/obo/FBbi_00000426>		
+<http://purl.obolibrary.org/obo/FBbi_00000535>		
+<http://purl.obolibrary.org/obo/FBbi_00000414>		
+<http://purl.obolibrary.org/obo/FBbi_00000438>		
+<http://purl.obolibrary.org/obo/FBbi_00000559>		
+<http://purl.obolibrary.org/obo/FBbi_00000317>		
+<http://purl.obolibrary.org/obo/FBbi_00000208>		
+<http://purl.obolibrary.org/obo/FBbi_00000329>		
+<http://purl.obolibrary.org/obo/FBbi_00000510>		
+<http://purl.obolibrary.org/obo/FBbi_00000304>		
+<http://purl.obolibrary.org/obo/FBbi_00000534>		
+<http://purl.obolibrary.org/obo/FBbi_00000413>		
+<http://purl.obolibrary.org/obo/FBbi_00000522>		
+<http://purl.obolibrary.org/obo/FBbi_00000401>		
+<http://purl.obolibrary.org/obo/FBbi_00000316>		
+<http://purl.obolibrary.org/obo/FBbi_00000558>		
+<http://purl.obolibrary.org/obo/FBbi_00000437>		
+<http://purl.obolibrary.org/obo/FBbi_00000546>		
+<http://purl.obolibrary.org/obo/FBbi_00000425>		
+<http://purl.obolibrary.org/obo/FBbi_00000449>		
+<http://purl.obolibrary.org/obo/FBbi_00000207>		
+<http://purl.obolibrary.org/obo/FBbi_00000328>		
+<http://purl.obolibrary.org/obo/FBbi_00000219>		
+<http://purl.obolibrary.org/obo/FBbi_00000311>		
+<http://purl.obolibrary.org/obo/FBbi_00001005>	"Tomography in which virtual sections are taken from multiple angles and the results are processed via tomographic reconstruction software to produce 2 or 3D images."	
+<http://purl.obolibrary.org/obo/FBbi_00000541>		
+<http://purl.obolibrary.org/obo/FBbi_00000420>		
+<http://purl.obolibrary.org/obo/FBbi_00000323>		
+<http://purl.obolibrary.org/obo/FBbi_00000202>		
+<http://purl.obolibrary.org/obo/FBbi_00000565>		
+<http://purl.obolibrary.org/obo/FBbi_00000444>		
+<http://purl.obolibrary.org/obo/FBbi_00000432>		
+<http://purl.obolibrary.org/obo/FBbi_00000553>		
+<http://purl.obolibrary.org/obo/FBbi_00000290>	"illumination parallel or at small angles to the optical axis is attenuated or blocked by a stop"	
+<http://purl.obolibrary.org/obo/FBbi_00000277>	"illumination that covers the entire field of view of the image-forming lens"	
+<http://purl.obolibrary.org/obo/FBbi_00000359>		
+<http://purl.obolibrary.org/obo/FBbi_00000008>		
+<http://purl.obolibrary.org/obo/FBbi_00000238>		
+<http://purl.obolibrary.org/obo/FBbi_00000589>		
+<http://purl.obolibrary.org/obo/FBbi_00000117>		
+<http://purl.obolibrary.org/obo/FBbi_00000468>		
+<http://purl.obolibrary.org/obo/FBbi_00000577>		
+<http://purl.obolibrary.org/obo/FBbi_00000456>		
+<http://purl.obolibrary.org/obo/FBbi_00000335>		
+<http://purl.obolibrary.org/obo/FBbi_00000214>		
+<http://purl.obolibrary.org/obo/FBbi_00000105>		
+<http://purl.obolibrary.org/obo/FBbi_00000347>		
+<http://purl.obolibrary.org/obo/FBbi_00000226>		
+<http://purl.obolibrary.org/obo/FBbi_00000268>	"sources and methods for illumination"	
+<http://purl.obolibrary.org/obo/FBbi_00000201>		
+<http://purl.obolibrary.org/obo/FBbi_00000552>		
+<http://purl.obolibrary.org/obo/FBbi_00000431>		
+<http://purl.obolibrary.org/obo/FBbi_00000322>		
+<http://purl.obolibrary.org/obo/FBbi_00000334>		
+<http://purl.obolibrary.org/obo/FBbi_00000213>		
+<http://purl.obolibrary.org/obo/FBbi_00000540>		
+<http://purl.obolibrary.org/obo/FBbi_00000576>		
+<http://purl.obolibrary.org/obo/FBbi_00000455>		
+<http://purl.obolibrary.org/obo/FBbi_00000564>		
+<http://purl.obolibrary.org/obo/FBbi_00000443>		
+<http://purl.obolibrary.org/obo/FBbi_00000310>		
+<http://purl.obolibrary.org/obo/FBbi_00000288>	"scanning by multiple points of light arising from pinholes in a spinning disk that is illuminated by a widefield source"	
+<http://purl.obolibrary.org/obo/FBbi_00000584>	"fluorophore derivative of rhodamine with ex/em 580/605"	
+<http://purl.obolibrary.org/obo/FBbi_00000249>		
+<http://purl.obolibrary.org/obo/FBbi_00000128>		
+<http://purl.obolibrary.org/obo/FBbi_00000479>		
+<http://purl.obolibrary.org/obo/FBbi_00000019>		
+<http://purl.obolibrary.org/obo/FBbi_00000467>		
+<http://purl.obolibrary.org/obo/FBbi_00000007>		
+<http://purl.obolibrary.org/obo/FBbi_00000588>		
+<http://purl.obolibrary.org/obo/FBbi_00000225>		
+<http://purl.obolibrary.org/obo/FBbi_00000104>		
+<http://purl.obolibrary.org/obo/FBbi_00000116>		
+<http://purl.obolibrary.org/obo/FBbi_00000358>		
+<http://purl.obolibrary.org/obo/FBbi_00000237>		
+<http://purl.obolibrary.org/obo/PATO_0000001>	"A dependent entity that inheres in a bearer by virtue of how the bearer is related to other entities"	
+<http://purl.obolibrary.org/obo/BFO_0000002>	"An entity that exists in full at any time in which it exists at all, persists through time while maintaining its identity and has no temporal parts."@en	
+<http://purl.obolibrary.org/obo/FBbi_00000301>		
+<http://purl.obolibrary.org/obo/FBbi_00000543>		
+<http://purl.obolibrary.org/obo/FBbi_00000422>		
+<http://purl.obolibrary.org/obo/FBbi_00000410>		
+<http://purl.obolibrary.org/obo/FBbi_00000531>		
+<http://purl.obolibrary.org/obo/BFO_0000016>		
+<http://purl.obolibrary.org/obo/GO_0003674>	"A molecular process that can be carried out by the action of a single macromolecular machine, usually via direct physical interactions with other molecular entities. Function in this sense denotes an action, or activity, that a gene product (or a complex) performs."	
+<http://purl.obolibrary.org/obo/FBbi_00000291>	"Illumination is distributed asymmetrically around the optic axis, typically achieved by a non-circular stop placed below the lower lens element and aperture of the condenser."	
+<http://purl.obolibrary.org/obo/FBbi_00000446>		
+<http://purl.obolibrary.org/obo/FBbi_00000107>		
+<http://purl.obolibrary.org/obo/FBbi_00000337>		
+<http://purl.obolibrary.org/obo/FBbi_00000216>		
+<http://purl.obolibrary.org/obo/FBbi_00000567>		
+<http://purl.obolibrary.org/obo/FBbi_00000228>		
+<http://purl.obolibrary.org/obo/FBbi_00000555>		
+<http://purl.obolibrary.org/obo/FBbi_00000434>		
+<http://purl.obolibrary.org/obo/FBbi_00000313>		
+<http://purl.obolibrary.org/obo/FBbi_00000458>		
+<http://purl.obolibrary.org/obo/FBbi_00000325>		
+<http://purl.obolibrary.org/obo/FBbi_00000204>		
+<http://purl.obolibrary.org/obo/FBbi_00000119>		
+<http://purl.obolibrary.org/obo/FBbi_00000530>		
+<http://purl.obolibrary.org/obo/FBbi_00000392>	"illumination and detection via a thin slit"	
+<http://purl.obolibrary.org/obo/FBbi_00000300>		
+<http://purl.obolibrary.org/obo/FBbi_00000312>		
+<http://purl.obolibrary.org/obo/FBbi_00000554>		
+<http://purl.obolibrary.org/obo/FBbi_00000433>		
+<http://purl.obolibrary.org/obo/FBbi_00000542>		
+<http://purl.obolibrary.org/obo/FBbi_00000421>		
+<http://purl.obolibrary.org/obo/FBbi_00050000>	"A method of reconstructing 3D structure by combining focussed ion beam milling to remove sucessive layers from a sample block with scanning EM to image the exposed surface between each milling step."	
+<http://purl.obolibrary.org/obo/FBbi_00000241>	"methods for forming images of objects too small to be observed with the unaided eye"	
+<http://purl.obolibrary.org/obo/BFO_0000040>	"An independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time."@en	
+<http://purl.obolibrary.org/obo/FBbi_00000348>		
+<http://purl.obolibrary.org/obo/FBbi_00000227>		
+<http://purl.obolibrary.org/obo/FBbi_00000578>		
+<http://purl.obolibrary.org/obo/FBbi_00000457>		
+<http://purl.obolibrary.org/obo/FBbi_00000566>		
+<http://purl.obolibrary.org/obo/FBbi_00000445>		
+<http://purl.obolibrary.org/obo/FBbi_00000239>		
+<http://purl.obolibrary.org/obo/FBbi_00000106>		
+<http://purl.obolibrary.org/obo/FBbi_00000118>		
+<http://purl.obolibrary.org/obo/FBbi_00000324>		
+<http://purl.obolibrary.org/obo/FBbi_00000203>		
+<http://purl.obolibrary.org/obo/FBbi_00000215>		
+<http://purl.obolibrary.org/obo/FBbi_00000469>		
+<http://purl.obolibrary.org/obo/FBbi_00000336>		
+<http://purl.obolibrary.org/obo/FBbi_00000269>	"media and devices employed for recording the alterations in the illumination that result from its interaction with the sample"	
+<http://purl.obolibrary.org/obo/FBbi_00000009>		
+<http://purl.obolibrary.org/obo/FBbi_00000396>	"methods of visualization that differentiate between different regions or surfaces of the specimen based on contiguity"	
